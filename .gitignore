@@ -1,10 +1,13 @@
-# Ignore build outputs
+# Build Folders
 bin/
 obj/
 
-# Ignore Visual Studio temporary files, build results, and settings
+# Visual Studio Files
 .vs/
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
+
+# Others
+*.pdb
