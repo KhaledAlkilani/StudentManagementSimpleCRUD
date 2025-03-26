@@ -44,7 +44,7 @@ namespace StudentManagement.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutStudent(int id, Student student)
+        public async Task<ActionResult> PutStudent(int id, Student student)
         {
             if (id != student.Id)
             {
@@ -72,7 +72,7 @@ namespace StudentManagement.Controllers
         }
 
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteStudent(int id)
+        public async Task<ActionResult> DeleteStudent(int id)
         {
             var student = await _context.Students.FindAsync(id);
             if (student == null)

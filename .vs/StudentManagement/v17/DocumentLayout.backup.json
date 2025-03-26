@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mc120\\StudentManagementCombined\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30FC2D26-E2C2-4467-81AA-FFD76D97CDB7}|StudentManagement.csproj|c:\\users\\mc120\\studentmanagementcombined\\studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{30FC2D26-E2C2-4467-81AA-FFD76D97CDB7}|StudentManagement.csproj|solutionrelative:studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30FC2D26-E2C2-4467-81AA-FFD76D97CDB7}|StudentManagement.csproj|c:\\users\\mc120\\studentmanagementcombined\\studentmanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30FC2D26-E2C2-4467-81AA-FFD76D97CDB7}|StudentManagement.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30FC2D26-E2C2-4467-81AA-FFD76D97CDB7}|StudentManagement.csproj|c:\\users\\mc120\\studentmanagementcombined\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30FC2D26-E2C2-4467-81AA-FFD76D97CDB7}|StudentManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mc120\\StudentManagementTests\\StudentsControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mc120\\StudentManagementTests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mc120\\StudentManagementTests\\StudentManagementTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mc120\\StudentManagementCombined\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mc120\\StudentManagementCombined\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:59:26.579Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\mc120\\StudentManagementCombined\\StudentManagement\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\mc120\\StudentManagementCombined\\StudentManagement\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:43:23.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mc120\\StudentManagementTests\\StudentsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\StudentManagementTests\\StudentsControllerTests.cs",
+              "ToolTip": "C:\\Users\\mc120\\StudentManagementTests\\StudentsControllerTests.cs",
+              "RelativeToolTip": "..\\..\\StudentManagementTests\\StudentsControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:39:02.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\mc120\\StudentManagementTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\StudentManagementTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\mc120\\StudentManagementTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\StudentManagementTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:38:18.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentManagementTests.csproj",
+              "DocumentMoniker": "C:\\Users\\mc120\\StudentManagementTests\\StudentManagementTests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\StudentManagementTests\\StudentManagementTests.csproj",
+              "ToolTip": "C:\\Users\\mc120\\StudentManagementTests\\StudentManagementTests.csproj",
+              "RelativeToolTip": "..\\..\\StudentManagementTests\\StudentManagementTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T07:34:15.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\mc120\\StudentManagementCombined\\StudentManagement\\StudentManagement.csproj",
+              "RelativeDocumentMoniker": "StudentManagement.csproj",
+              "ToolTip": "C:\\Users\\mc120\\StudentManagementCombined\\StudentManagement\\StudentManagement.csproj",
+              "RelativeToolTip": "StudentManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T07:33:58.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
